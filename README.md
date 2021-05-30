@@ -11,15 +11,15 @@ The data we are analysing is as follows:
 - Average Fare Per Driver
 
 Here is the code we used to find this data:
-Insert image here (Total_Data_Code)
+![alt text](https://github.com/Jcenno/PyBer_Analysis/blob/11050aa8229030296f385d181e64a8edf3826a4a/Resources/Total_Data_Code.jpg)
 
 ## Summary of Data
 Here we can see a summary of the data showing ride sharing in the different city types. Rural areas have a higher average fare, but a lower total number of rides with those numbers decreasing and increasing respectively for Suburban and Urban areas. This is most likely due to the density of the population and travel distance requirements for those areas.
-Insert Image Pyber_summary_image
+![alt text](https://github.com/Jcenno/PyBer_Analysis/blob/11050aa8229030296f385d181e64a8edf3826a4a/Resources/pyber_summary_image.jpg)
 
 ### Total Fare by City Type
 This image allows us to see the total fare for each city type. From the image we can tell that even though the average fare may be lower in Urban areas, the Urban areas have a higher total fare.
-Insert Image total fares
+![alt text](https://github.com/Jcenno/PyBer_Analysis/blob/11050aa8229030296f385d181e64a8edf3826a4a/Resources/Total_fare_city_type.jpg)
 
 ## Recommendations
 - Suburban drivers should be rewarded for taking on rural routes. Giving a bonus to make up for the fact you may not find a return fare. The same can be done for Urban drivers to get them to take Suburban and Rural fares.
