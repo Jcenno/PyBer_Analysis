@@ -22,7 +22,7 @@ This image allows us to see the total fare for each city type. From the image we
 ![alt text](https://github.com/Jcenno/PyBer_Analysis/blob/11050aa8229030296f385d181e64a8edf3826a4a/Resources/Total_fare_city_type.jpg)
 
 ## Recommendations
-- Suburban drivers should be rewarded for taking on rural routes. Giving a bonus to make up for the fact you may not find a return fare. The same can be done for Urban drivers to get them to take Suburban and Rural fares.
-- 
+- Suburban drivers could be rewarded for taking on rural routes. Giving a bonus to make up for the fact you may not find a return fare. The same can be done for Urban drivers to get them to take Suburban and Rural fares.
+- The company could be rewarded for putting an emphasis on improving their Urban operations since a majority of their revenue comes from there. An increase in effeciency will have a better effect in the Urban environment than either of the other two regions.
 
 
